@@ -14,7 +14,9 @@ Telecom companies lose millions every year to customer churn. This project answe
 
 ## 📊 Dashboard Preview
 
-![Overview](data/chart1_churn_count.png)
+![Overview](screenshots/overview.png)
+![Customer Lookup](screenshots/customer_lookup.png)
+![Business Summary](screenshots/business_summary.png)
 
 ---
 
